@@ -1,0 +1,9 @@
+[package]
+name = "rm68120"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+display-interface = "0.4"
+display-interface-parallel-gpio = "0.6"
+embedded-hal = "0.2"
